@@ -39,6 +39,13 @@ The Guess Age application uses tooltips to provide additional information about 
 
 ![](https://github.com/hrosicka/GuessAge/blob/master/doc/GuessAgeTooltip.png)
 
+## Author
+
+Lovingly crafted by [Hanka Robovska](https://github.com/hrosicka) 👩‍🔬
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details. Free to use, modify, and distribute as needed.
 
 
 
